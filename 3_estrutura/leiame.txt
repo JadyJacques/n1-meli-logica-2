@@ -1,5 +1,6 @@
 Agora, a Lumelância quer dar descontos para produtos que estão proximos da validade.
-Quando os funcionários estiverem reorganizando as prateleiras, eles deverão verificar se o produto esta próximo do vencimento informando quantos dias faltam para o vencimento.
+Quando os funcionários estiverem reorganizando as prateleiras, eles deverão verificar se o produto esta
+próximo do vencimento informando quantos dias faltam para o vencimento.
 
 - O array de objetos produtos devem conter os dados
     - nome: string
