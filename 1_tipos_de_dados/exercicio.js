@@ -1,22 +1,22 @@
-//resposta aqui
+// var nomedavariavel = "jude";
+// console.log (nomedavariavel);
 
-/*Você criará um cartão fidelidade na loja Lumelância e deverá seguir os passos abaixo:
+// var listalegal = [ 'jude',
+// 'tem 17 anos',
+// 'seus produtos favoritos são: água, refrigerante, guaravita',
+// 'e é sua primeira vez comprando']
+// console.log (listalegal);
 
-- Crie variaveis para o guardar o nome, idade, se é a primeira vez e uma lista produtos favoritos do cliente
-- Atribua valores a essas variaveis
-- Crie um objeto que irá receber os valores dessa variaveis e o imprima o objeto no console
-*/
+var nome = 'jude';
+var idade = 15;
+var produtosfavoritos = ['água, refrigerante, guaravita'];
+var primeira = false;
 
-var nome = "Luma";
-var idade = 30;
-var primeiraVez = true;
-var favoritos = ["açai", "paçoca", "pão na chapa"];
 
-var luma = {
+cliente = {
     nome,
     idade,
-    primeiraVez,
-    favoritos
-};
-
-console.log(luma);
+    produtosfavoritos,
+    primeira
+}
+console.log(cliente);
