@@ -1,5 +1,3 @@
-//resposta aqui
-
 // var r = require("readline-sync");
 // var a = parseInt(r.question("Digite 1 ou 2"))
 // console.log(a);
@@ -21,5 +19,3 @@
 var a = [
     {sapato: "jude", valor_sapato: "2"}
 ]
-
-

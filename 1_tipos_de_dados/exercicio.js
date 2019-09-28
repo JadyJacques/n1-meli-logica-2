@@ -1,5 +1,3 @@
-//resposta aqui
-
 // var nomedavariavel = "jude";
 // console.log (nomedavariavel);
 
@@ -22,5 +20,3 @@ cliente = {
     primeira
 }
 console.log(cliente);
-
-
