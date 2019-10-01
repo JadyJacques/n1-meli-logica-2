@@ -18,9 +18,11 @@ Enquanto usuário digitar qualquer palavra, print o que ele está digitando mas 
 O programa vai dizer "Tchau [nome]" e finalizar o programa.
 - Aqui você pode usar while ou do/while para resolver
 
-4) Crie um  programa contador de passos, que acumule os valores de passos informados pelo usuário até que a meta seja atingida.
+4) Crie um  programa contador de passos, que acumule os valores de passos informados pelo usuário ate
+que a meta seja atingida.
 A meta a ser atingida é de 500 passos.
-- Aqui você pode usar while ou do/while para resolver, mas tente resolver com o que você não utilizou no exercicio 3.
+- Aqui você pode usar while ou do/while para resolver, mas tente resolver com o que você não utilizou
+no exercicio 3.
 
 
 ---
